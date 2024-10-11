@@ -1,6 +1,6 @@
 # Customer Churn Prediction for Interconnect Telecom
 
-[Link to the project](#)
+[Link to the project](https://github.com/arr225/Data_Projects_TripleTen/blob/12c27989f10925328238261f263455dd3f75562f/Customer%20Churn%20Prediction/Interconnect%20Telecom%20%E2%80%93%20Customer%20Churn%20Prediction%20Project.ipynb)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
