@@ -57,8 +57,9 @@ The dataset was cleaned and preprocessed to ensure it was free from missing valu
 ---
 
 ### Task 2: KNN Classifier Results
-![Task 2: KNN Classifier Results](#)
-*Description:* A visualization of the performance of the K-Nearest Neighbors (KNN) classifier model in predicting insurance benefits. 
+![Task 2: KNN Classifier Results](https://github.com/arr225/Data_Projects_TripleTen/blob/74e34965395eed96f2882bc9ac70a06b6f095c23/Sure%20Tomorrow%20Insurance%20-%20Machine%20Learning%20for%20Insurance%20Claims/KNN%20Classifier%20Results.png)
+
+*Description:* This screenshot displays the results from the KNN Classifier model used to predict whether a customer is likely to receive an insurance benefit. The F1 Score was calculated for different values of k (from 1 to 10) for both original and scaled data. The results indicate that the scaled data performs better across most values of k, with the highest F1 Score reaching 0.9457 at k=6. Additionally, the performance of a Dummy Classifier was evaluated for comparison. The Dummy Classifier's F1 Scores were significantly lower across all probabilities tested, showing that the KNN model performs substantially better. 
 
 ---
 
