@@ -86,7 +86,7 @@ The project used a comprehensive database of Chicago taxi rides, including the f
 ### Top 10 Neighborhoods by Drop-offs
 ![Top 10 Neighborhoods](https://github.com/arr225/Data_Projects_TripleTen/blob/8849f60cd59205f489c849a2b614efd34c951abc/Data%20Analysis%20and%20Hypothesis%20Testing/Top%2010%20Neighborhoods%20by%20Drop-offs.png)
 
-*Description*: A graph highlighting the top 10 neighborhoods where rides ended in November 2017.
+*Description*: This bar graph highlights the top 10 neighborhoods in Chicago by the average number of taxi drop-offs. The Loop neighborhood leads with the highest number of drop-offs, followed by River North and Streeterville. This analysis provides insights into the most frequented areas for taxi rides during the evaluation period, showcasing the demand for transportation services in these key locations.
 
 ### Ride Duration and Weather Conditions
 - ![Ride Duration](link_to_image)
