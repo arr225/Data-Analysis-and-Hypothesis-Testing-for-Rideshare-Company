@@ -105,7 +105,3 @@ The project used a comprehensive database of Chicago taxi rides, including the f
 - **Further Data Collection**: Integrating more detailed weather data over a longer period could refine the impact analysis.
 - **Ride Optimization**: Zuber could use the insights about weather impacts to adjust driver availability and pricing models.
 - **Passenger Preferences**: Collecting more information on passenger demographics and preferences could help Zuber tailor services and marketing strategies.
-
----
-
-Let me know if any additional details are needed!
