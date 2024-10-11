@@ -51,6 +51,7 @@ The dataset was cleaned and preprocessed to ensure it was free from missing valu
 
 ### Task 1: Similar Customers Results
 ![Task 1: Similar Customers Results](https://github.com/arr225/Data_Projects_TripleTen/blob/d6bf6e5e3751ec3f22527c05cf2037e8aec9dabf/Sure%20Tomorrow%20Insurance%20-%20Machine%20Learning%20for%20Insurance%20Claims/Similar%20Customers%20Results.png)
+
 *Description:* This visual shows the output of the customer similarity search using Euclidean and Manhattan distance metrics. It displays the top results for customers most similar to the given customer based on gender, age, income, and family members.
 
 ---
