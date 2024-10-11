@@ -64,9 +64,17 @@ The dataset was cleaned and preprocessed to ensure it was free from missing valu
 ---
 
 ### Task 3: Linear Regression Performance
-![Task 3: Linear Regression Performance](#)
-*Description:* This visual displays the performance of the linear regression model in predicting the number of insurance benefits a customer is likely to receive.
+![Task 3: Linear Regression Performance](https://github.com/arr225/Data_Projects_TripleTen/blob/ab3ece06071a5d333423bb5e3020ea5c7090efb4/Sure%20Tomorrow%20Insurance%20-%20Machine%20Learning%20for%20Insurance%20Claims/Linear%20Regression%20Performance.png)
 
+*Description:* The screenshot above shows the results of applying linear regression to predict the number of insurance benefits a new customer is likely to receive. The performance is evaluated on both unscaled and scaled data.
+
+- **Original and Scaled Training Data**: The first 5 rows of the original and scaled training data are displayed to illustrate how scaling affects the feature values.
+- **Weights for Unscaled and Scaled Data**: The regression weights for both unscaled and scaled data are provided, showing the relationship between features and target variables in both cases.
+- **Model Evaluation**: The model's performance is assessed using the following metrics:
+  - **RMSE (Root Mean Squared Error)**: A lower value of RMSE indicates better performance. The model produced an RMSE of 0.24 for both scaled and unscaled data.
+  - **R² (Coefficient of Determination)**: Indicates how well the model explains the variance in the target variable, with an R² of 0.43-0.44 for both scaled and unscaled data.
+
+This analysis demonstrates that scaling does not significantly affect the model's performance, as the RMSE and R² values remain consistent across both scaled and unscaled data.
 
 ## Results
 - **KNN for Customer Similarity:** Successfully identified similar customers, with scaling improving results.
