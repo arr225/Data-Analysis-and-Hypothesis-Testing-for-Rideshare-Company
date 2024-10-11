@@ -69,7 +69,11 @@ The dataset was cleaned and preprocessed for model training.
 ---
 
 ### Model Performance
-![Model Performance](#)  
+![Model 0 - Constant (DummyClassifier)](https://github.com/arr225/Data_Projects_TripleTen/blob/0113a0f8fad294d0e9d4e4dbcb0e4d0bb653e037/Sentiment%20Analysis%20for%20Movie%20Reviews/Model%200%20-%20Constant%20(DummyClassifier).png)  
+![Model 1 - NLTK, TF-IDF and Logistic Regression](#) 
+![Model 3 - spaCy, TF-IDF and Logistic Regression](#) 
+![Model 4 - spaCy, TF-IDF and LightGBMClassifier)](#) 
+
 *Description:* The F1 score of each model is displayed, comparing the performance of Logistic Regression with TF-IDF and LightGBM. The best-performing model achieved an F1 score of **0.88**.
 
 ---
