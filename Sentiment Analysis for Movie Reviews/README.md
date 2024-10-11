@@ -1,6 +1,6 @@
 # Sentiment Analysis for Movie Reviews
 
-### [Link to Project](#)
+### [Link to Project](https://github.com/arr225/Data_Projects_TripleTen/blob/6d9b87bbbdd60b489966af996f7174035a6cef58/Sentiment%20Analysis%20for%20Movie%20Reviews/Film%20Junky%20Union%20%E2%80%93%20Sentiment%20Analysis%20for%20Movie%20Reviews%20Project.ipynb)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
