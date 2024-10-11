@@ -70,7 +70,7 @@ The dataset was cleaned and preprocessed for model training.
 
 ### Model Performance
 ![Model 0 - Constant (DummyClassifier)](https://github.com/arr225/Data_Projects_TripleTen/blob/0113a0f8fad294d0e9d4e4dbcb0e4d0bb653e037/Sentiment%20Analysis%20for%20Movie%20Reviews/Model%200%20-%20Constant%20(DummyClassifier).png)  
-![Model 1 - NLTK, TF-IDF and Logistic Regression](#) 
+![Model 1 - NLTK, TF-IDF and Logistic Regression](https://github.com/arr225/Data_Projects_TripleTen/blob/0b7b744ca3119af9cfa79d8b810391dc7d2a6eb5/Sentiment%20Analysis%20for%20Movie%20Reviews/Model%201%20-%20NLTK%2C%20TF-IDF%20and%20Logistic%20Regression.png) 
 ![Model 3 - spaCy, TF-IDF and Logistic Regression](#) 
 ![Model 4 - spaCy, TF-IDF and LightGBMClassifier)](#) 
 
