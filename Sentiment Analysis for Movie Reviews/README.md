@@ -41,9 +41,21 @@ The dataset was cleaned and preprocessed for model training.
 - A balanced dataset was confirmed, with approximately equal numbers of positive and negative reviews.
 
 ### Models Used:
-- **Logistic Regression** with TF-IDF vectorization.
-- **LightGBM Classifier** with spaCy preprocessing.
-- Custom reviews were also classified using the trained models for performance validation.
+1. **Model 0 - Constant (DummyClassifier)**:
+   - Baseline model used with the 'most_frequent' strategy.
+   - Provided a baseline F1 score and accuracy to compare other models against.
+
+2. **Model 1 - NLTK, TF-IDF and Logistic Regression**:
+   - Used TF-IDF vectorization for text feature extraction.
+   - Logistic Regression model was trained and tested, achieving improved results over the baseline.
+
+3. **Model 3 - spaCy, TF-IDF and Logistic Regression**:
+   - Used spaCy for lemmatization and tokenization in text preprocessing.
+   - Logistic Regression was retrained using the spaCy-preprocessed data and TF-IDF features.
+
+4. **Model 4 - spaCy, TF-IDF and LightGBMClassifier**:
+   - SpaCy was again used for preprocessing, and TF-IDF features were extracted.
+   - LightGBMClassifier was employed for training, providing significant improvements in performance.
 
 ---
 
