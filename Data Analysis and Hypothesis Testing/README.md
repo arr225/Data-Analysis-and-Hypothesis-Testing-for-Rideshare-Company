@@ -84,7 +84,8 @@ The project used a comprehensive database of Chicago taxi rides, including the f
 - *Description*: A bar graph showing the number of rides taken with different taxi companies over a specific period in November 2017.
 
 ### Top 10 Neighborhoods by Drop-offs
-- ![Top 10 Neighborhoods](link_to_image)
+- ![Top 10 Neighborhoods](https://github.com/arr225/Data_Projects_TripleTen/blob/8849f60cd59205f489c849a2b614efd34c951abc/Data%20Analysis%20and%20Hypothesis%20Testing/Top%2010%20Neighborhoods%20by%20Drop-offs.png)
+- 
 - *Description*: A graph highlighting the top 10 neighborhoods where rides ended in November 2017.
 
 ### Ride Duration and Weather Conditions
