@@ -62,8 +62,9 @@ The dataset was cleaned and preprocessed for model training.
 ## 4. Visuals
 
 ### Review Distribution
-![Distribution of Reviews](#)  
-*Description:* This plot shows the distribution of positive and negative reviews, confirming that the dataset is balanced.
+![Distribution of Reviews](https://github.com/arr225/Data_Projects_TripleTen/blob/98c3988c7dfe124441f075284916e7f5f79dcd9e/Sentiment%20Analysis%20for%20Movie%20Reviews/Distribution%20of%20number%20of%20reviews%20per%20movie%20with%20the%20exact%20counting%20and%20KDE.png)  
+
+*Description:* This section of the analysis explores the distribution of the number of reviews per movie using both a bar plot and a KDE plot. The bar plot (on the left) provides an exact count of how many movies received a specific number of reviews, while the KDE plot (on the right) estimates the distribution of reviews across movies using a continuous probability function. From the KDE plot, we can observe that the majority of movies have between 5 to 15 reviews, with a peak around 7 reviews per movie. This provides valuable insights into how review counts are distributed, and can inform future analysis or model improvements that rely on understanding the balance or imbalance in review data.
 
 ---
 
