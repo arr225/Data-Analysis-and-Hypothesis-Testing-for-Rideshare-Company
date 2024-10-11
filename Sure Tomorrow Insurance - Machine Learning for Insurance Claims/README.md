@@ -1,6 +1,6 @@
 # Sure Tomorrow Insurance - Machine Learning for Insurance Claims
 
-### [Link to Project](#)
+### [Link to Project](https://github.com/arr225/Data_Projects_TripleTen/blob/dbc11f2b36bf8e0ffafe7885a4a3145f3e3b08d2/Sure%20Tomorrow%20Insurance%20-%20Machine%20Learning%20for%20Insurance%20Claims/Sure%20Tomorrow%20Insurance%20-%20Machine%20Learning%20for%20Insurance%20Claims%20Project.ipynb)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
