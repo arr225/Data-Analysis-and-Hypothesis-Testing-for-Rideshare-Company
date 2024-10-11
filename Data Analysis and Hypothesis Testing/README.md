@@ -89,8 +89,9 @@ The project used a comprehensive database of Chicago taxi rides, including the f
 *Description*: This bar graph highlights the top 10 neighborhoods in Chicago by the average number of taxi drop-offs. The Loop neighborhood leads with the highest number of drop-offs, followed by River North and Streeterville. This analysis provides insights into the most frequented areas for taxi rides during the evaluation period, showcasing the demand for transportation services in these key locations.
 
 ### Ride Duration and Weather Conditions
-- ![Ride Duration](link_to_image)
-- *Description*: A comparison of ride durations from the Loop to O'Hare International Airport on "Good" and "Bad" weather days, visually testing the hypothesis about weather's impact on ride duration.
+![Ride Duration](https://github.com/arr225/Data_Projects_TripleTen/blob/800d1efb1ae14666511e4fd90af676255e8eb232/Data%20Analysis%20and%20Hypothesis%20Testing/Ride%20Duration%20and%20Weather%20Conditions.png)
+
+*Description*: A comparison of ride durations from the Loop to O'Hare International Airport on "Good" and "Bad" weather days, visually testing the hypothesis about weather's impact on ride duration.
 
 ---
 
