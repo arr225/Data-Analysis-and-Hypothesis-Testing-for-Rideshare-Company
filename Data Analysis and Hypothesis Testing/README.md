@@ -1,10 +1,6 @@
-Here’s the updated README with the correct placeholder for the project link:
-
----
-
 # Data Analysis and Hypothesis Testing for Rideshare Company
 
-### [Link to the Project](#)
+### [Link to the Project](https://github.com/arr225/Data_Projects_TripleTen/blob/0fe5dafc705a51bf9c487958a95995bb88cdfdae/Data%20Analysis%20and%20Hypothesis%20Testing/Data%20Analysis%20and%20Hypothesis%20Testing%20for%20Rideshare%20Company.ipynb)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
