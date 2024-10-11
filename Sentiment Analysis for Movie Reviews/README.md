@@ -81,7 +81,17 @@ The dataset was cleaned and preprocessed for model training.
 #### Model 4 - spaCy, TF-IDF and LightGBMClassifier)
 ![Model 4 - spaCy, TF-IDF and LightGBMClassifier)](https://github.com/arr225/Data_Projects_TripleTen/blob/e09785ed156f00bc3f6480723cb2d73425d81438/Sentiment%20Analysis%20for%20Movie%20Reviews/Model%204%20-%20spaCy%2C%20TF-IDF%20and%20LightGBMClassifier.png) 
 
-*Description:* The F1 score of each model is displayed, comparing the performance of Logistic Regression with TF-IDF and LightGBM. The best-performing model achieved an F1 score of **0.88**.
+*Description:* This section summarizes the performance of the various models used to classify movie reviews as either positive or negative. The performance is evaluated using metrics such as accuracy, F1 score, and ROC AUC, and the results are visualized through ROC curves.
+
+- **Model 0 - Constant (Dummy Classifier)**: This baseline model predicts the majority class for all inputs, achieving an accuracy of 0.50 and an F1 score of 0.67 for the negative class, but failing to predict the positive class at all (F1 score of 0.00).
+  
+- **Model 1 - NLTK, TF-IDF, and Logistic Regression**: Using TF-IDF vectorization and logistic regression, this model significantly improves performance, reaching an accuracy of 0.88 on the test set and an F1 score of 0.88. The ROC curve shows a strong area under the curve (AUC) of 0.95.
+
+- **Model 3 - spaCy, TF-IDF, and Logistic Regression**: After using spaCy preprocessing with TF-IDF and logistic regression, the model continues to perform well with an accuracy of 0.88 and an F1 score of 0.88 on the test set. The ROC AUC remains at 0.95, demonstrating robust performance.
+
+- **Model 4 - spaCy, TF-IDF, and LightGBM Classifier**: Incorporating LightGBM with the same preprocessing pipeline, this model further enhances the results, reaching an accuracy of 0.85 and an F1 score of 0.86 on the test set. The ROC AUC remains strong at 0.93, showing competitive performance compared to the previous models.
+
+The ROC curves provide a visual representation of the trade-offs between true positive rates and false positive rates, further confirming the effectiveness of the models, especially Models 1 and 4.
 
 ---
 
