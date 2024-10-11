@@ -79,7 +79,8 @@ The project used a comprehensive database of Chicago taxi rides, including the f
 ## Visuals
 
 ### Taxi Companies and Number of Rides
-- ![Taxi Companies and Rides](link_to_image)
+- ![Taxi Companies and Rides](https://github.com/arr225/Data_Projects_TripleTen/blob/35ef401dd684ddc8f8ca8dc0a08e237ef1706bfa/Data%20Analysis%20and%20Hypothesis%20Testing/Taxi%20Companies%20and%20Number%20of%20Rides.png)
+- 
 - *Description*: A bar graph showing the number of rides taken with different taxi companies over a specific period in November 2017.
 
 ### Top 10 Neighborhoods by Drop-offs
