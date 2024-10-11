@@ -48,7 +48,7 @@ The dataset was cleaned and preprocessed to ensure it was free from missing valu
 - Personal data was obfuscated using a matrix multiplication technique. Despite data masking, the model's performance remained intact, proving that personal information can be protected without affecting predictive power.
 
 ## Visuals
-![Task 1: Similar Customers Results](#)
+![Task 1: Similar Customers Results](https://github.com/arr225/Data_Projects_TripleTen/blob/d6bf6e5e3751ec3f22527c05cf2037e8aec9dabf/Sure%20Tomorrow%20Insurance%20-%20Machine%20Learning%20for%20Insurance%20Claims/Similar%20Customers%20Results.png)
 ![Task 2: KNN Classifier Results](#)
 ![Task 3: Linear Regression Performance](#)
 
