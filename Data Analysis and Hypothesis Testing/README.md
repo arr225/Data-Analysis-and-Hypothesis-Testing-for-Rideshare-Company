@@ -91,7 +91,7 @@ The project used a comprehensive database of Chicago taxi rides, including the f
 ### Ride Duration and Weather Conditions
 ![Ride Duration](https://github.com/arr225/Data_Projects_TripleTen/blob/800d1efb1ae14666511e4fd90af676255e8eb232/Data%20Analysis%20and%20Hypothesis%20Testing/Ride%20Duration%20and%20Weather%20Conditions.png)
 
-*Description*: A comparison of ride durations from the Loop to O'Hare International Airport on "Good" and "Bad" weather days, visually testing the hypothesis about weather's impact on ride duration.
+*Description*: This histogram illustrates the distribution of ride durations on rainy and non-rainy Saturdays. The graph shows that the majority of rides on both rainy and non-rainy Saturdays lasted between 1000 and 3000 seconds, with rainy Saturdays (highlighted in blue) having a more condensed distribution. The comparison of these two conditions provides insights into how weather impacts ride durations, particularly on rainy days.
 
 ---
 
