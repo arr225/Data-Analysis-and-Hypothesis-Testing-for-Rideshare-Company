@@ -74,16 +74,22 @@ Here are a few key visuals from the project:
 **Distribution of TotalCharges and MonthlyCharges**:
    ![TotalCharges and MonthlyCharges Distribution](https://github.com/arr225/Data_Projects_TripleTen/blob/91c5e41fa3086062a54ed05b2c9a998998933eb9/Customer%20Churn%20Prediction/Distribution%20of%20TotalCharges%20and%20MonthlyCharge.png)
 
-   *Description:
+   *Description*:
 
 **Churn Rate Analysis**:
    ![Churn Rate](#)
 
+   *Description*:
+
 **Contract Type vs. Churn**:
    ![Contract Type and Churn](#)
 
+   *Description*:
+
 **Payment Method vs. Churn**:
    ![Payment Method and Churn](#)
+
+   *Description*:
 
 ## Results
 
