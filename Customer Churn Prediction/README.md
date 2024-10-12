@@ -71,16 +71,18 @@ The target feature is determined based on the `EndDate`. If `EndDate` is "No," t
 
 Here are a few key visuals from the project:
 
-1. **Distribution of TotalCharges and MonthlyCharges**:
-   ![TotalCharges and MonthlyCharges Distribution](#)
+**Distribution of TotalCharges and MonthlyCharges**:
+   ![TotalCharges and MonthlyCharges Distribution](https://github.com/arr225/Data_Projects_TripleTen/blob/91c5e41fa3086062a54ed05b2c9a998998933eb9/Customer%20Churn%20Prediction/Distribution%20of%20TotalCharges%20and%20MonthlyCharge.png)
 
-2. **Churn Rate Analysis**:
+   *Description:
+
+**Churn Rate Analysis**:
    ![Churn Rate](#)
 
-3. **Contract Type vs. Churn**:
+**Contract Type vs. Churn**:
    ![Contract Type and Churn](#)
 
-4. **Payment Method vs. Churn**:
+**Payment Method vs. Churn**:
    ![Payment Method and Churn](#)
 
 ## Results
