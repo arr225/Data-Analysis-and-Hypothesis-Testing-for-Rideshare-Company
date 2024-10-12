@@ -81,7 +81,7 @@ Here are a few key visuals from the project:
 - The **Monthly Charges** distribution shows a wide spread of customer billing amounts. The data suggests that most customers are billed within a mid-range of monthly charges, with fewer customers at the higher and lower ends. The peaks and valleys suggest distinct service plan categories, with the highest concentration of customers paying around $20-$40 monthly.
 
 **Churn Rate Analysis**:
-   ![Churn Rate](#)
+   ![Churn Rate](https://github.com/arr225/Data_Projects_TripleTen/blob/0f8b392de31376d18088719fa16a53da4a487895/Customer%20Churn%20Prediction/Churn%20Rate%20Analysi.png)
 
    *Description*:
 
