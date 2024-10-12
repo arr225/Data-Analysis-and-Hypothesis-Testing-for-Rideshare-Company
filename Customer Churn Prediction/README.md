@@ -105,7 +105,13 @@ This indicates that offering longer contract periods with better incentives coul
 **Payment Method vs. Churn**:
    ![Payment Method and Churn](https://github.com/arr225/Data_Projects_TripleTen/blob/b074b55aef226cc5e3858064d64e4ef72ffea3cc/Customer%20Churn%20Prediction/Payment%20Method%20vs.%20Churn.png)
 
-   *Description*:
+   *Description*: The visual illustrates the relationship between **Payment Method** and **Churn Status**:
+
+- **Electronic check** payment method has the highest churn rate. This is evident from the large number of churned customers (orange bar) compared to active customers (blue bar). This suggests that customers using electronic check as their payment method are more likely to leave the service.
+
+- Both **Mailed check** and **Automatic payments** (via Bank Transfer or Credit Card) show relatively lower churn rates. The proportion of churned customers is lower for these payment methods, with **automatic payment options** (bank transfer and credit card) particularly standing out as more stable, with fewer customers opting to leave.
+
+The pattern here suggests that encouraging customers to use automatic payment methods could potentially reduce churn rates, as these customers tend to stay longer with the service compared to those using electronic checks.
 
 ## Results
 
