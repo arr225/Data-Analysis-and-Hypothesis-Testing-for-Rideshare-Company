@@ -103,7 +103,7 @@ Here are a few key visuals from the project:
 This indicates that offering longer contract periods with better incentives could be a strategy to reduce customer churn for the company.
 
 **Payment Method vs. Churn**:
-   ![Payment Method and Churn](#)
+   ![Payment Method and Churn](https://github.com/arr225/Data_Projects_TripleTen/blob/b074b55aef226cc5e3858064d64e4ef72ffea3cc/Customer%20Churn%20Prediction/Payment%20Method%20vs.%20Churn.png)
 
    *Description*:
 
