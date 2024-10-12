@@ -74,7 +74,11 @@ Here are a few key visuals from the project:
 **Distribution of TotalCharges and MonthlyCharges**:
    ![TotalCharges and MonthlyCharges Distribution](https://github.com/arr225/Data_Projects_TripleTen/blob/91c5e41fa3086062a54ed05b2c9a998998933eb9/Customer%20Churn%20Prediction/Distribution%20of%20TotalCharges%20and%20MonthlyCharge.png)
 
-   *Description*:
+   *Description*: The visual above showcases the distribution of **Total Charges** and **Monthly Charges** for customers of Interconnect Telecom. 
+
+- The **Total Charges** distribution reveals that a significant number of customers have lower total charges, possibly indicating shorter tenures. The right-skewed shape shows that while most customers fall within the lower total charge range, there are a few customers with much higher cumulative charges, indicating longer service durations or higher service usage.
+
+- The **Monthly Charges** distribution shows a wide spread of customer billing amounts. The data suggests that most customers are billed within a mid-range of monthly charges, with fewer customers at the higher and lower ends. The peaks and valleys suggest distinct service plan categories, with the highest concentration of customers paying around $20-$40 monthly.
 
 **Churn Rate Analysis**:
    ![Churn Rate](#)
