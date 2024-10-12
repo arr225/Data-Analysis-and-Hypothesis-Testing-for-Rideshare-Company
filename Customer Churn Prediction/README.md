@@ -94,7 +94,13 @@ Here are a few key visuals from the project:
 **Contract Type vs. Churn**:
    ![Contract Type and Churn](https://github.com/arr225/Data_Projects_TripleTen/blob/98c5d4a7453c26d6a996158a420e98d4dab94d81/Customer%20Churn%20Prediction/Contract%20Type%20vs.%20Chur.png)
 
-   *Description*:
+   *Description*: The visual provides insights into the **Contract Type vs Churn Status** for customers:
+
+- The **Month-to-month** contract type shows a much higher churn rate compared to longer contract commitments (one-year and two-year contracts). This is evident by the large number of churned customers (orange bar) in the month-to-month group, suggesting that customers with less commitment flexibility are more likely to leave.
+  
+- On the other hand, the **One-year** and **Two-year** contract holders show significantly lower churn rates, as seen in the much smaller number of churned customers in these categories. This implies that customers who opt for longer contracts tend to stay with the service longer and are less likely to churn.
+
+This indicates that offering longer contract periods with better incentives could be a strategy to reduce customer churn for the company.
 
 **Payment Method vs. Churn**:
    ![Payment Method and Churn](#)
