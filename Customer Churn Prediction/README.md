@@ -92,7 +92,7 @@ Here are a few key visuals from the project:
 3. **Total Charges by Churn Status**: This box plot shows the total charges of churned versus active customers. Churned customers tend to have lower total charges, likely indicating shorter periods of service or lower engagement before they decided to leave the company. However, there are some outliers where churned customers have high total charges, which could represent longer-tenured users with high usage before exiting the service.
 
 **Contract Type vs. Churn**:
-   ![Contract Type and Churn](#)
+   ![Contract Type and Churn](https://github.com/arr225/Data_Projects_TripleTen/blob/98c5d4a7453c26d6a996158a420e98d4dab94d81/Customer%20Churn%20Prediction/Contract%20Type%20vs.%20Chur.png)
 
    *Description*:
 
