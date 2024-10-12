@@ -83,7 +83,13 @@ Here are a few key visuals from the project:
 **Churn Rate Analysis**:
    ![Churn Rate](https://github.com/arr225/Data_Projects_TripleTen/blob/0f8b392de31376d18088719fa16a53da4a487895/Customer%20Churn%20Prediction/Churn%20Rate%20Analysi.png)
 
-   *Description*:
+   *Description*: This visual provides an analysis of **Churn vs Active Customers**, along with the relationship between churn status and customer charges:
+
+1. **Churn vs Active Customers**: The first bar plot shows a comparison of the number of customers who have churned (True) versus those who are still active (False). The churn rate is high, as shown by a significantly larger number of churned customers compared to active ones.
+
+2. **Monthly Charges by Churn Status**: This box plot highlights the distribution of monthly charges between churned and active customers. Churned customers tend to have higher monthly charges on average compared to those who are still active, which suggests that higher bills may contribute to customer churn.
+
+3. **Total Charges by Churn Status**: This box plot shows the total charges of churned versus active customers. Churned customers tend to have lower total charges, likely indicating shorter periods of service or lower engagement before they decided to leave the company. However, there are some outliers where churned customers have high total charges, which could represent longer-tenured users with high usage before exiting the service.
 
 **Contract Type vs. Churn**:
    ![Contract Type and Churn](#)
