@@ -41,7 +41,7 @@ Zuber, a new ride-sharing company in Chicago, tasked me with analyzing ride data
 
 ## Sure Tomorrow Insurance - Machine Learning for Insurance Claims
 
-[Link to the Project](./Sure%20Tomorrow%20Insurance%20-%20Machine%20Learning%20for%20Insurance%20Claims)
+[Link to the Project](https://github.com/arr225/Data_Projects_TripleTen/blob/e6de64d0f095a2f92623b1f41a5c54cf3a1e9299/Sure%20Tomorrow%20Insurance%20-%20Machine%20Learning%20for%20Insurance%20Claims/Sure%20Tomorrow%20Insurance%20-%20Machine%20Learning%20for%20Insurance%20Claims%20Project.ipynb)
 
 ### Description:
 This project involved multiple tasks for Sure Tomorrow Insurance. The main objectives included customer segmentation for marketing, predicting the likelihood of customers receiving insurance benefits, and protecting client data using obfuscation techniques. I used machine learning models to predict and analyze insurance claims data.
