@@ -13,7 +13,7 @@ Welcome to my Data Science Portfolio, where I showcase the projects completed du
 
 ## Customer Churn Prediction
 
-[Link to the Project](./Customer%20Churn%20Prediction)
+[Link to the Project](https://github.com/arr225/Data_Projects_TripleTen/blob/5242526749938ffe69c7cbcb6c001b2bd97f3b36/Customer%20Churn%20Prediction/Interconnect%20Telecom%20%E2%80%93%20Customer%20Churn%20Prediction%20Project.ipynb)
 
 ### Description:
 In this project, the goal was to predict customer churn for a telecom operator, Interconnect. By predicting whether a client is likely to leave, the company can offer special promotions to retain them. This project involved data preprocessing, exploratory data analysis, and building machine learning models to predict churn, with a primary focus on the AUC-ROC metric.
