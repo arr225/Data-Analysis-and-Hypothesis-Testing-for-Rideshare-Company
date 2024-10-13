@@ -55,7 +55,7 @@ This project involved multiple tasks for Sure Tomorrow Insurance. The main objec
 
 ## Sentiment Analysis for Movie Reviews
 
-[Link to the Project](./Sentiment%20Analysis%20for%20Movie%20Reviews)
+[Link to the Project](https://github.com/arr225/Data_Projects_TripleTen/blob/b0d7e2500c67e164d610049c06a33826b5817125/Sentiment%20Analysis%20for%20Movie%20Reviews/Film%20Junky%20Union%20%E2%80%93%20Sentiment%20Analysis%20for%20Movie%20Reviews%20Project.ipynb)
 
 ### Description:
 The Film Junky Union tasked me with building a system to automatically detect negative reviews using sentiment analysis. This project focused on transforming text data into numerical representations and building classification models to predict review polarity (positive/negative).
